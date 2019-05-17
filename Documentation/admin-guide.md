@@ -427,7 +427,7 @@ Dynamic data masking helps prevent unauthorized access to sensitive data by enab
 
 12.	Here you can see the **Cosmos DB resource information** is displayed below the page as show in the following figure.
 
-    ![alt text](https://github.com/SecureColdChain/ColdChain/blob/master/Documentation/images/a42.png)
+    ![alt text](https://github.com/SecureColdChain/ColdChain/blob/master/Documentation/images/a42-1.png)
     
     ![alt text](https://github.com/SecureColdChain/ColdChain/blob/master/Documentation/images/a43.png)
 
